@@ -1,0 +1,12 @@
+.start{
+    text-align: center;margin: 0 auto;
+}
+
+.pop{
+    border: 3px solid purple;
+    background-color: rgb(246, 216, 220);
+    width: 300px; height: 60px;
+    padding: 20px 20px 10px 20px;
+    flood-color: aqua;
+   
+}
